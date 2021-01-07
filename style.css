@@ -46,7 +46,7 @@ header {
 }
 
 .nav-icon {
-    font-size: 6rem;
+    font-size: 3rem;
     text-decoration: none;
     color: #010101;
     font-family: var(--title-font);
@@ -56,7 +56,7 @@ header {
 }
 
 .nav-links {
-    font-size: 3rem;
+    font-size: 2rem;
     width: 50%;
     display: flex;
     height: 100%;
